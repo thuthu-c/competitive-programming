@@ -12,15 +12,19 @@ ll rec_fat(ll number){
     } 
 }
 
+ll arr(ll num, ll ber){
+    return rec_fat(num)/(rec_fat(num-ber));
+}
+
+ll perm(ll num){
+    return arr(num, num); 
+}
+
 int main() {
-    
-    ll n, result; 
-
-    cin>>n;
-
-    result = rec_fat(n); 
-
-    cout<<n<<"! = " << result<<endl; 
+    ll a, b;
+    cin >> a >> b;
+    ll result{perm(a,b)};
+    cout<<result;
 
     return 0;
 }

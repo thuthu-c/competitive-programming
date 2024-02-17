@@ -12,15 +12,16 @@ ll rec_fat(ll number){
     } 
 }
 
+
+ll comb(ll num, ll ber){
+    return rec_fat(num)/(rec_fat(ber)*(rec_fat(num-ber)));
+}
+
 int main() {
-    
-    ll n, result; 
-
-    cin>>n;
-
-    result = rec_fat(n); 
-
-    cout<<n<<"! = " << result<<endl; 
+    ll a, b;
+    cin >> a >> b;
+    ll result{comb(a,b)};
+    cout<<result;
 
     return 0;
 }
