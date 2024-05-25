@@ -3,7 +3,7 @@ using namespace std;
 #define ll long long int
 
 int main() {
-    ll T, N, lamps;  
+    ll T, N, lamps;  //Oi, Esther aqui <3
     char aux;
 
     cin >> T; 
