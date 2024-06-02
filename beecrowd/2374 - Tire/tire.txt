@@ -1,0 +1,11 @@
+Inflating car tires should be a daily task for all drivers. For this, gas stations have an air pump. Most current pumps are electronic, allowing the driver to select the desired pressure on a keypad. When connected to the tire, the pump first reads the current pressure and calculates the difference in pressure between the desired and read pressure. With this difference, it deflates or inflates the tire to reach the correct pressure.
+
+Your help was requested to develop the program for SBC's next pump - Computerized Pump Systems.
+
+Write a program that, given the desired pressure entered by the driver and the tire pressure read by the pump, indicates the difference between the desired pressure and the read pressure.
+
+Input
+The first line of the input contains an integer N which indicates the pressure desired by the driver (1 ≤ N ≤ 40). The second line contains an integer M which indicates the pressure read by the pump (1 ≤ M ≤ 40).
+
+Output
+Your program must print a single line, containing the difference between the desired pressure and the read pressure.

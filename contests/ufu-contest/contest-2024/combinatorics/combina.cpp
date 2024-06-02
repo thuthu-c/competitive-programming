@@ -2,6 +2,29 @@
 using namespace std;
 #define ll unsigned long long int
 
+
+void backtracking(int posicao, vector<string>conjunto, vector<bool> conj_bool, int tam_conj){
+    int i{0}, j{0};
+    
+    if(posicao == tam_conj){
+        while(i < tam_conj){
+            cout<<conjunto[i];
+            if(i == tam_conj){
+                cout<<',';
+            }
+                    
+            ++i;
+        }
+            cout << endl;
+    }
+    else{
+        conj_bool[posicao] = 1; 
+        backtracking(posicao+1, conjunto, conj_bool, tam_conj);
+        conj_bool[posicao] = 0;
+        backtracking(posicao+1, conjunto, conj_bool, tam_conj);
+    }
+}
+
 vector<string> tokenizer(string s, char token){
     // cout<<s<<endl;
     string curr_token{""};
@@ -23,6 +46,7 @@ vector<string> tokenizer(string s, char token){
 int main() {
     string input;
     vector<string> combs; 
+   
 
     cin >> input; 
 
@@ -31,14 +55,10 @@ int main() {
     for(auto c : combs){
         cout << c<< endl; 
     }
+     vector<bool> bools_conj(combs.size(), 0); 
 
 
-    for(auto i{0u}; i<combs.size(); ++i){
-        for(auto j{i}; j < comb.size(); ++j){
-            cout<< 
-        }
-    }
-
+   backtracking(0,combs, bools_conj, combs.size());
 
     
 

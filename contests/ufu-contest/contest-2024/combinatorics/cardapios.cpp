@@ -10,4 +10,5 @@ int main(){
         res*=a;
     }
     cout<<res<<endl;
+    return 0;
 }
