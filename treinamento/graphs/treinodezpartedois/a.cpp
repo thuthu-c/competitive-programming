@@ -12,39 +12,48 @@ int main (){
 
     cin >> n >> m; 
 
-    vector<vector<pair<ll,ll>>> adj(n+1); 
+    vector<vector<pair<ll,ll>>> adj(n); 
+    vector<ll> pred(n);
+    vector<bool> visited(n, false); 
 
     for(auto i{0}; i < m; ++i){
         cin >> a >> b >> c; 
+        a--;
+        b--;
         adj[a].push_back({b, c});
     }
 
-    vector<int> dist(n+1, INT_MAX);
-    dist[1] = 0; 
+    vector<ll> dist(n, 1000000000000000);
+    dist[0] = 0; 
 
     priority_queue<pair<ll, ll>, vector<pair<ll,ll>>, greater<pair<ll,ll>>> pq;
-    pq.push({0, 1});
+    pq.push({0, 0});
 
     while (!pq.empty()) {
         ll u = pq.top().second;
         ll d = pq.top().first;
         pq.pop();
         if (d > dist[u]) continue;
+        if(!visited[u]){
+            visited[u] = true;
 
-        for (auto p : adj[u]) {
-            ll v = p.first;
-            ll w = p.second;
+            for (auto p : adj[u]) {
+                ll v = p.first;
+                ll w = p.second;
 
-            if (dist[u] + w < dist[v]) {
-                dist[v] = dist[u] + w;
-                pq.push({dist[v], v});
+                if (dist[u] + w < dist[v]) {
+                    dist[v] = dist[u] + w;
+                    //pred[]
+                    pq.push({dist[v], v});
+                }
             }
         }
+        
     }
     
 
 
-    for (int i = 1; i <= n; i++) {
+    for (int i = 0; i < n; i++) {
       cout << dist[i] << ' ';
     }
     cout<<endl;
