@@ -60,5 +60,11 @@
     "ostream": "cpp",
     "iostream": "cpp",
     "span": "cpp"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
   }
 }

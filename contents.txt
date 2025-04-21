@@ -1,0 +1,397 @@
+# Section headings must be in square brackets
+# [filename within code directory]	[subsection title]
+
+[03-02]
+contests/atcoder/03-02/a.cpp	Miscellaneous
+contests/atcoder/03-02/b.cpp	Miscellaneous
+contests/atcoder/03-02/c.cpp	String Processing
+##contests/atcoder/03-02/g.cpp	Miscellaneous
+
+[03-09]
+contests/atcoder/03-09/a.cpp	String Processing
+contests/atcoder/03-09/b.cpp	Miscellaneous
+contests/atcoder/03-09/c.cpp	Miscellaneous
+contests/atcoder/03-09/d.cpp	String Processing
+##contests/atcoder/03-09/e.cpp	Miscellaneous
+##contests/atcoder/03-09/f.cpp	Miscellaneous
+##contests/atcoder/03-09/g.cpp	Miscellaneous
+
+[03-16]
+#contests/atcoder/03-16/a.cpp	Miscellaneous
+contests/atcoder/03-16/b.cpp	Miscellaneous
+contests/atcoder/03-16/c.cpp	String Processing
+contests/atcoder/03-16/c2.cpp	String Processing
+
+[1011 - Sphere]
+beecrowd/1011 - Sphere/sphere.cpp	Miscellaneous
+
+[1012 - Area]
+beecrowd/1012 - Area/answer.cpp	Miscellaneous
+
+[1013 - The Greatest]
+beecrowd/1013 - The Greatest/answer.cpp	Miscellaneous
+
+[1014 - Consumption]
+beecrowd/1014 - Consumption/answer.cpp	Miscellaneous
+
+[1016 - Distance]
+beecrowd/1016 - Distance/answer.cpp	Miscellaneous
+
+[1017 - Fuel Spent]
+beecrowd/1017 - Fuel Spent/answer.cpp	Miscellaneous
+
+[1019 - Time Conversion]
+beecrowd/1019 - Time Conversion/answer.cpp	Miscellaneous
+
+[1020 - Age In Days]
+beecrowd/1020 - Age in Days/answer.cpp	Miscellaneous
+
+##[1021 - Banknotes And Coins]
+##code/beecrowd/1021_Banknotes_and_Coins	Miscellaneous
+
+[1143 - Squared And Cubuc]
+beecrowd/1143 - Squared and Cubuc/answer.cpp	Miscellaneous
+
+[1153 - Simple Factorial]
+beecrowd/1153 - Simple Factorial/answer.cpp	Miscellaneous
+
+[2006 - Identifying Tea]
+beecrowd/2006 - Identifying Tea/answer.cpp	Miscellaneous
+
+##[2061 - Closing  Tabs]
+##beecrowd/2061 - Closing Tabs/answer.cpp	String Processing   
+
+[2344 - Notas Da Prova]
+beecrowd/2344 - Notas da Prova/answer.cpp	Miscellaneous
+
+[2374 - Tire]
+beecrowd/2374 - Tire/answer.cpp	Miscellaneous
+
+##[2388 - Tacógrafo]
+##beecrowd/2388 - Tacógrafo/answer.cpp	Miscellaneous
+
+[2413 - Busca Na Internet]
+beecrowd/2413 - Busca na Internet/answer.cpp	Miscellaneous
+
+[2416 - Corrida]
+beecrowd/2416 - Corrida/answer.cpp	Miscellaneous
+
+##[2936 -  How Much Cassava?]
+##beecrowd/2936 -  How Much Cassava?/answer.cpp	Miscellaneous
+
+##[3048 - Sequência Secreta]
+##beecrowd/3048 - Sequência Secreta/answer.cpp	Miscellaneous
+
+[Basic]
+beecrowd/Basic/Age_in_Days.cpp	String Processing
+beecrowd/Basic/Animal.cpp	String Processing
+beecrowd/Basic/Area.cpp	String Processing
+beecrowd/Basic/Area_of_a_Circle.cpp	Miscellaneous
+beecrowd/Basic/Average_1.cpp	String Processing
+beecrowd/Basic/Average_2.cpp	String Processing
+beecrowd/Basic/Average_3.cpp	String Processing
+beecrowd/Basic/Banknotes.cpp	String Processing
+beecrowd/Basic/Banknotes_and_Coins.cpp	String Processing
+beecrowd/Basic/Bhaskaras_Formula.cpp	String Processing
+beecrowd/Basic/Consumption.cpp	String Processing
+beecrowd/Basic/Coordinates_of_a_point.cpp	String Processing
+beecrowd/Basic/DDD.cpp	String Processing
+beecrowd/Basic/Difference.cpp	String Processing
+beecrowd/Basic/Distance.cpp	String Processing
+beecrowd/Basic/Distance_Between_Two_Points.cpp	String Processing
+beecrowd/Basic/Extremely_Basic.cpp	Miscellaneous
+beecrowd/Basic/Fuel_Spent.cpp	String Processing
+beecrowd/Basic/Game_Days.cpp	String Processing
+beecrowd/Basic/Game_Time_with_Minutes.cpp	String Processing
+beecrowd/Basic/Hello_World.cpp	Miscellaneous
+beecrowd/Basic/Interval.cpp	Interval Problems
+beecrowd/Basic/Multiples.cpp	String Processing
+beecrowd/Basic/Salary.cpp	String Processing
+beecrowd/Basic/Salary_Increase.cpp	String Processing
+beecrowd/Basic/Salary_with_Bonus.cpp	String Processing
+beecrowd/Basic/Selection_Test_1.cpp	String Processing
+beecrowd/Basic/Simple_Calculate.cpp	String Processing
+beecrowd/Basic/Simple_Product.cpp	Miscellaneous
+beecrowd/Basic/Simple_Sort.cpp	String Processing
+beecrowd/Basic/Simple_Sum.cpp	Miscellaneous
+beecrowd/Basic/Snack.cpp	String Processing
+beecrowd/Basic/Sphere.cpp	String Processing
+beecrowd/Basic/Taxes.cpp	String Processing
+beecrowd/Basic/The_Greatest.cpp	String Processing
+beecrowd/Basic/Time_Conversion.cpp	String Processing
+beecrowd/Basic/Triangle.cpp	String Processing
+beecrowd/Basic/Triangle_Types.cpp	String Processing
+
+[Fasezeroprova]
+fasezero/FASEZEROPROVA/A.cpp	Miscellaneous
+fasezero/FASEZEROPROVA/B.cpp	Graph Traversal
+##fasezero/FASEZEROPROVA/C.cpp	Miscellaneous
+fasezero/FASEZEROPROVA/D.cpp	Miscellaneous
+##fasezero/FASEZEROPROVA/E.cpp	Miscellaneous
+##fasezero/FASEZEROPROVA/F.cpp	Miscellaneous
+fasezero/FASEZEROPROVA/G.cpp	Miscellaneous
+fasezero/FASEZEROPROVA/H.cpp	Miscellaneous
+##fasezero/FASEZEROPROVA/I.cpp	Miscellaneous
+##fasezero/FASEZEROPROVA/J.cpp	Miscellaneous
+##fasezero/FASEZEROPROVA/K.cpp	Miscellaneous
+fasezero/FASEZEROPROVA/L.cpp	String Processing
+##fasezero/FASEZEROPROVA/M.cpp	Miscellaneous
+##fasezero/FASEZEROPROVA/N.cpp	Miscellaneous
+
+[Gran Premio]
+contests/Gran Premio/a.cpp	Miscellaneous
+##contests/Gran Premio/b.cpp	Miscellaneous
+contests/Gran Premio/c.cpp	Miscellaneous
+##contests/Gran Premio/d.cpp	Miscellaneous
+##contests/Gran Premio/e.cpp	Miscellaneous
+contests/Gran Premio/f.cpp	Miscellaneous
+##contests/Gran Premio/g.cpp	Miscellaneous
+contests/Gran Premio/l.cpp	Miscellaneous
+
+[Algebra-Aritm]
+contests/ufu-contest/contest-2024/algebra-aritm/maratona.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/algebra-aritm/promocao.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/algebra-aritm/triangulos.cpp	Miscellaneous
+
+[Aritmethics-Algebra]
+studies/aritmethics-algebra/mdc.cpp	Miscellaneous
+studies/aritmethics-algebra/mmc.cpp	Miscellaneous
+
+[Backtracking]
+contests/ufu-contest/contest-2024/backtracking/equivalencia.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/backtracking/malabarista.cpp	Miscellaneous
+studies/backtracking/all_combinations.cpp	Miscellaneous
+studies/backtracking/find_path.cpp	Miscellaneous
+treinamento/backtracking/b.cpp	Miscellaneous
+treinamento/backtracking/c.cpp	String Processing
+treinamento/backtracking/d.cpp	Miscellaneous
+
+[Busca Binaria]
+MFP-2025/busca binaria/Queriesaboutlessorequalelements.cpp	Miscellaneous
+MFP-2025/busca binaria/binarysearch.cpp	Miscellaneous
+MFP-2025/busca binaria/factorymachines.cpp	Miscellaneous
+MFP-2025/busca binaria/ogros.cpp	Miscellaneous
+MFP-2025/busca binaria/somadecasas.cpp	Miscellaneous
+MFP-2025/busca binaria/sumoffourvalues.cpp	Miscellaneous
+MFP-2025/busca binaria/sumofthreevalues.cpp	Miscellaneous
+MFP-2025/busca binaria/sumoftwovalues.cpp	Miscellaneous
+
+[C++]
+MFP-2025/c++/aprovadooureprovado.cpp	Miscellaneous
+MFP-2025/c++/bit.cpp	String Processing
+MFP-2025/c++/bondinho.cpp	Miscellaneous
+MFP-2025/c++/elephant.cpp	Miscellaneous
+MFP-2025/c++/gangorra.cpp	Miscellaneous
+MFP-2025/c++/pangram.cpp	String Processing
+MFP-2025/c++/quadrante.cpp	Miscellaneous
+MFP-2025/c++/watermelon.cpp	Miscellaneous
+
+[Combinatorics]
+contests/ufu-contest/contest-2024/combinatorics/anagrama.cpp	String Processing
+contests/ufu-contest/contest-2024/combinatorics/bilhar.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/combinatorics/cardapios.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/combinatorics/cofre.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/combinatorics/combina.cpp	String Processing
+contests/ufu-contest/contest-2024/combinatorics/criptografia.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/combinatorics/dna.cpp	String Processing
+contests/ufu-contest/contest-2024/combinatorics/escoteiros.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/combinatorics/example.cpp	String Processing
+contests/ufu-contest/contest-2024/combinatorics/hackathon.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/combinatorics/tribonacci.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/combinatorics/truco.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/combinatorics/volei.cpp	Miscellaneous
+studies/combinatorics/arrangement.cpp	Miscellaneous
+studies/combinatorics/binomial.cpp	Miscellaneous
+studies/combinatorics/combinations.cpp	Miscellaneous
+studies/combinatorics/factorial.cpp	Miscellaneous
+studies/combinatorics/permutation.cpp	Miscellaneous
+##studies/combinatorics/permutation_with_repetitions.cpp	Miscellaneous
+
+[Contest-09]
+treinamento/contest-09/A.cpp	String Processing
+treinamento/contest-09/C.cpp	Miscellaneous
+treinamento/contest-09/E.cpp	Miscellaneous
+
+[Contest-25]
+treinamento/contest-25/a.cpp	Miscellaneous
+treinamento/contest-25/b.cpp	Miscellaneous
+treinamento/contest-25/c.cpp	Miscellaneous
+treinamento/contest-25/e.cpp	Miscellaneous
+treinamento/contest-25/f.cpp	String Processing
+treinamento/contest-25/g.cpp	Miscellaneous
+treinamento/contest-25/h.cpp	Miscellaneous
+
+[Contest-Grupo]
+treinamento/contest-grupo/a.cpp	Miscellaneous
+treinamento/contest-grupo/b.cpp	Miscellaneous
+treinamento/contest-grupo/c.cpp	String Processing
+treinamento/contest-grupo/d.cpp	Miscellaneous
+treinamento/contest-grupo/e.cpp	Miscellaneous
+treinamento/contest-grupo/e2.cpp	Miscellaneous
+
+[Contest-Ind]
+treinamento/contest-ind/a.cpp	String Processing
+treinamento/contest-ind/b.cpp	String Processing
+treinamento/contest-ind/c.cpp	String Processing
+treinamento/contest-ind/d.cpp	Miscellaneous
+##treinamento/contest-ind/e.cpp	Miscellaneous
+treinamento/contest-ind/f.cpp	Miscellaneous
+##treinamento/contest-ind/g.cpp	Miscellaneous
+
+[Contest-Pd]
+treinamento/contest-pd/B.cpp	Miscellaneous
+treinamento/contest-pd/C.cpp	Miscellaneous
+
+[Contest-Pdd]
+treinamento/contest-pdd/a.cpp	Miscellaneous
+treinamento/contest-pdd/b.cpp	Miscellaneous
+treinamento/contest-pdd/e.cpp	Miscellaneous
+
+[Contest-Pontape]
+treinamento/contest-pontape/a.cpp	Miscellaneous
+treinamento/contest-pontape/b.cpp	String Processing
+treinamento/contest-pontape/c.cpp	Miscellaneous
+treinamento/contest-pontape/d.cpp	Miscellaneous
+treinamento/contest-pontape/e.cpp	Miscellaneous
+
+[Contest-Ul]
+##treinamento/contest-ul/a.cpp	Miscellaneous
+##treinamento/contest-ul/b.cpp	Miscellaneous
+treinamento/contest-ul/e.cpp	Miscellaneous
+treinamento/contest-ul/i.cpp	Miscellaneous
+
+[Contest2015]
+fasezero/contest2015/A.cpp	String Processing
+##fasezero/contest2015/B.cpp	Miscellaneous
+fasezero/contest2015/C.cpp	Miscellaneous
+##fasezero/contest2015/D.cpp	Miscellaneous
+fasezero/contest2015/E.cpp	Miscellaneous
+##fasezero/contest2015/F.cpp	Miscellaneous
+fasezero/contest2015/G.cpp	Miscellaneous
+##fasezero/contest2015/H.cpp	Miscellaneous
+##fasezero/contest2015/I.cpp	Miscellaneous
+fasezero/contest2015/J.cpp	Miscellaneous
+fasezero/contest2015/K.cpp	Miscellaneous
+## fasezero/contest2015/L.cpp	Miscellaneous
+fasezero/contest2015/segtree.cpp	Miscellaneous
+
+[Graphs]
+contests/ufu-contest/contest-2024/graphs/c.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/graphs/h.cpp	Miscellaneous
+
+[Guloso]
+aulas-UFMG/guloso/corredor.cpp	Miscellaneous
+aulas-UFMG/guloso/fatorial.cpp	Miscellaneous
+aulas-UFMG/guloso/restaurante.cpp	Miscellaneous
+
+[Number-01]
+CSES PROBLEM SET/number-01/weird_algorithm.cpp	Miscellaneous
+
+[Number-02]
+CSES PROBLEM SET/number-02/missing_number.cpp	Miscellaneous
+CSES PROBLEM SET/number-02/missing_number_v2.cpp	Miscellaneous
+
+[Number-03]
+CSES PROBLEM SET/number-03/repetitions.cpp	String Processing
+
+[Number-04]
+CSES PROBLEM SET/number-04/increasing_array.cpp	Miscellaneous
+
+[Number-05]
+CSES PROBLEM SET/number-05/permutations.cpp	Miscellaneous
+CSES PROBLEM SET/number-05/permutations_v2.cpp	Miscellaneous
+
+[Number-06]
+CSES PROBLEM SET/number-06/spiral_number.cpp	Miscellaneous
+
+[Number-07]
+CSES PROBLEM SET/number-07/two_knights.cpp	Miscellaneous
+
+[Pd]
+treinamento/pd/frog.cpp	Miscellaneous
+treinamento/pd/lower copy.cpp	Miscellaneous
+treinamento/pd/lower.cpp	Miscellaneous
+treinamento/pd/vacation.cpp	Miscellaneous
+
+[Recursao]
+treinamento/recursao/a.cpp	Miscellaneous
+treinamento/recursao/b.cpp	Miscellaneous
+
+[Seletiva]
+contests/seletiva/a.cpp	Miscellaneous
+contests/seletiva/b.cpp	Miscellaneous
+contests/seletiva/c.cpp	Graph Traversal
+contests/seletiva/d.cpp	Shortest Path
+contests/seletiva/e.cpp	Miscellaneous
+contests/seletiva/f.cpp	Miscellaneous
+contests/seletiva/g.cpp	Miscellaneous
+contests/seletiva/h.cpp	Graph Traversal
+contests/seletiva/i.cpp	Graph Traversal
+contests/seletiva/j.cpp	Miscellaneous
+contests/seletiva/k.cpp	Miscellaneous
+contests/seletiva/l.cpp	Miscellaneous
+
+[Set]
+treinamento/set/a.cpp	String Processing
+treinamento/set/b.cpp	String Processing
+treinamento/set/c.cpp	Miscellaneous
+treinamento/set/d.cpp	String Processing
+
+[Soma De Prefixos]
+MFP-2025/soma de prefixos/promo.cpp	Miscellaneous
+MFP-2025/soma de prefixos/subarraysumI.cpp	Miscellaneous
+MFP-2025/soma de prefixos/test.cpp	Miscellaneous
+
+[Sorting]
+contests/ufu-contest/contest-2024/sorting/cassino.cpp	String Processing
+contests/ufu-contest/contest-2024/sorting/loteria.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/sorting/naipe.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/sorting/numeros.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/sorting/tamanho.cpp	String Processing
+studies/algorithms/sorting/bubble_sort.cpp	Miscellaneous
+studies/algorithms/sorting/bucket_sort.cpp	Miscellaneous
+##studies/algorithms/sorting/couting_sort.cpp	Miscellaneous
+##studies/algorithms/sorting/heap_sort.cpp	Miscellaneous
+##studies/algorithms/sorting/inserction_sort.cpp	Miscellaneous
+##studies/algorithms/sorting/merge_sort.cpp	Miscellaneous
+studies/algorithms/sorting/quick_sort.cpp	Miscellaneous
+studies/algorithms/sorting/selection_sort.cpp	Miscellaneous
+##studies/algorithms/sorting/shell_sort.cpp	Miscellaneous
+
+[Stl]
+treinamento/stl/a.cpp	Miscellaneous
+treinamento/stl/b.cpp	Miscellaneous
+
+[Strings]
+contests/ufu-contest/contest-2024/strings/abreviando.cpp	String Processing
+contests/ufu-contest/contest-2024/strings/belisa.cpp	String Processing
+contests/ufu-contest/contest-2024/strings/brincos.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/strings/compara.cpp	String Processing
+contests/ufu-contest/contest-2024/strings/compressao.cpp	String Processing
+contests/ufu-contest/contest-2024/strings/contavogal.cpp	String Processing
+contests/ufu-contest/contest-2024/strings/criptografia.cpp	String Processing
+##contests/ufu-contest/contest-2024/strings/email.cpp	String Processing
+##contests/ufu-contest/contest-2024/strings/magica.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/strings/musica.cpp	String Processing
+##contests/ufu-contest/contest-2024/strings/palavra.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/strings/palindrome.cpp	String Processing
+##contests/ufu-contest/contest-2024/strings/remove.cpp	Miscellaneous
+contests/ufu-contest/contest-2024/strings/senha.cpp	String Processing
+##contests/ufu-contest/contest-2024/strings/wise.cpp	Miscellaneous
+
+[Studies]
+studies/binary_search.cpp	Miscellaneous
+
+[Treinamento]
+treinamento/recursao.cpp	String Processing
+
+[Treinodez]
+treinamento/graphs/treinodez/A.cpp	Miscellaneous
+##treinamento/graphs/treinodez/aerrada.cpp	Miscellaneous
+
+[Treinodezpartedois]
+treinamento/graphs/treinodezpartedois/a.cpp	Miscellaneous
+
+[Treinonove]
+treinamento/graphs/treinonove/b.cpp	Graph Traversal
+
